@@ -1,0 +1,11 @@
+D:\Workspace\Csharp\Software Engineering\Lab7_10\Project\Winform\LabWinform\LabWinform\obj\Debug\LabWinform.csproj.AssemblyReference.cache
+D:\Workspace\Csharp\Software Engineering\Lab7_10\Project\Winform\LabWinform\LabWinform\obj\Debug\LabWinform.Form1.resources
+D:\Workspace\Csharp\Software Engineering\Lab7_10\Project\Winform\LabWinform\LabWinform\obj\Debug\LabWinform.Properties.Resources.resources
+D:\Workspace\Csharp\Software Engineering\Lab7_10\Project\Winform\LabWinform\LabWinform\obj\Debug\LabWinform.csproj.GenerateResource.cache
+D:\Workspace\Csharp\Software Engineering\Lab7_10\Project\Winform\LabWinform\LabWinform\obj\Debug\LabWinform.csproj.CoreCompileInputs.cache
+D:\Workspace\Csharp\Software Engineering\Lab7_10\Project\Winform\LabWinform\LabWinform\bin\Debug\LabWinform.exe.config
+D:\Workspace\Csharp\Software Engineering\Lab7_10\Project\Winform\LabWinform\LabWinform\bin\Debug\LabWinform.exe
+D:\Workspace\Csharp\Software Engineering\Lab7_10\Project\Winform\LabWinform\LabWinform\bin\Debug\LabWinform.pdb
+D:\Workspace\Csharp\Software Engineering\Lab7_10\Project\Winform\LabWinform\LabWinform\obj\Debug\LabWinform.exe
+D:\Workspace\Csharp\Software Engineering\Lab7_10\Project\Winform\LabWinform\LabWinform\obj\Debug\LabWinform.pdb
+D:\Workspace\Csharp\Software Engineering\Lab7_10\Project\Winform\LabWinform\LabWinform\obj\Debug\LabWinform.Purchase.resources
